@@ -1,5 +1,3 @@
-![](https://transportestupino.com.pe/images/BajoConstrucci%C3%B3n.png)
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=wuilmerbolivar.wuilmerbolivar)
 
 ![Estadísticas GitHub de Wuilmer Bolivar](https://github-readme-stats.vercel.app/api?username=wuilmerbolivar&show_icons=true)
